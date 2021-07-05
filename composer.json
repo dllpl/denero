@@ -1,0 +1,13 @@
+{
+    "name": "denero/denero",
+    "authors": [
+        {
+            "name": "Ivanov Nikita",
+            "email": "nikita03.1998@mail.ru"
+        }
+    ],
+    "require": {
+        "phpdocumentor/phpdocumentor": "dev-master",
+        "ext-xsl": "*"
+    }
+}
